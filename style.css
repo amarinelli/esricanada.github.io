@@ -1,0 +1,48 @@
+body {
+	margin:0;
+	font-family: "Avenir LT W01 65 Medium",Arial,Helvetica,sans-serif;
+	color: #fff;
+	background: url(images/header.jpg) repeat-x top center;
+}
+
+a {
+	color: #00aeef;
+	text-decoration: none;
+}
+
+p.desc {
+	font-size: 20px;
+	text-align:justify;
+}
+
+.header {
+	height: 500px;
+	margin-top:0;
+	width: 100%;
+}
+
+.banner {
+	height: 450px;
+	width: 1320px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(images/GitHubBanner.jpg);
+}
+
+.description {
+	width: 475px;
+	margin-left: 75px;
+	padding-top: 75px;
+	line-height: 25px;
+}
+
+.button {
+	width: 475px;
+	margin-left: 75px;
+	padding: 20px 0 20px 0;
+}
+
+.footer {
+	width: 475px;
+	margin-left: 75px;
+}
